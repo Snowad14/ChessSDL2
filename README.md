@@ -5,7 +5,7 @@ This is a simple Chess game written in C++ using the SDL2 library and built with
 
 ## Screenshot
 
-![chess game screenshot](https://imgur.com/c037ed4d-e977-45f4-a3d6-d7440b446867)
+![chess](https://github.com/Snowad14/ChessSDL2/assets/67842535/2fe437d2-dac7-47c1-90a2-542c7419f73a)
 
 ## Acknowledgments
 
